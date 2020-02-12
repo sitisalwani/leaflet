@@ -27,7 +27,7 @@ stesen_minyak <- read.csv("stesenminyakklselangor2.csv")
 head(stesen_minyak)
 ```
 
-### Plotting Map of Petrol Station in Kuala Lumpur (Malaysia)
+### Plotting Map of Petrol Station in Kuala Lumpur and Selangor (Malaysia)
 
 Map of petrol station in Kuala Lumpur and Selangor area (Malaysia)
 
