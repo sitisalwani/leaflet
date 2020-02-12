@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581537616015.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2602537222",
+    "id" : "11B2DC75",
+    "lastKnownWriteTime" : 1581539566,
+    "last_content_update" : 1581539566382,
+    "path" : "~/Documents/Cousera/Cousera9/Week2_Leaflet/Leaflet/leaflet.Rmd",
+    "project_path" : "leaflet.Rmd",
+    "properties" : {
+        "cursorPosition" : "44,0",
+        "last_setup_crc32" : "45D9DB77bb338d19",
+        "scrollLine" : "23",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

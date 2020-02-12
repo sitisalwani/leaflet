@@ -1,0 +1,7 @@
+"0","library(leaflet)"
+"0","stesen_minyak %>%"
+"0","  leaflet() %>%"
+"0","  addTiles() %>%"
+"0","  addMarkers(clusterOptions = markerClusterOptions())"
+"2","Assuming ""LONG"" and ""LAT"" are longitude and latitude, respectively
+"
